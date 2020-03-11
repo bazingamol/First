@@ -21,6 +21,6 @@ return "Hello World Developer!!!";
 @ResponseBody
 public String sayHi() {
 	
-	return "Hello world Devops";
+	return "Hello world Devops School";
 }
 }
